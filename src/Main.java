@@ -21,8 +21,9 @@ public class Main {
 
         System.out.println(lada.brand + " " + lada.model + " " + lada.productionYear + " год выпуска. Сборка в " + lada.productionCountry + "." + " Кузов " + lada.color + " Объем двигателя - " + lada.engineVolume);
         System.out.println(bmw.brand + " " + bmw.model + " " + bmw.productionYear + " год выпуска. Сборка в " + bmw.productionCountry + "." + " Кузов " + bmw.color + " Объем двигателя - " + bmw.engineVolume);
-
-
+        System.out.println(kia.brand + " " + kia.model + " " + kia.productionYear + " год выпуска. Сборка в " + kia.productionCountry + "." + " Кузов " + kia.color + " Объем двигателя - " + kia.engineVolume);
+        System.out.println(hyundai.brand + " " + hyundai.model + " " + hyundai.productionYear + " год выпуска. Сборка в " + hyundai.productionCountry + "." + " Кузов " + hyundai.color + " Объем двигателя - " + hyundai.engineVolume);
+        System.out.println(audi.brand + " " + audi.model + " " + audi.productionYear + " год выпуска. Сборка в " + audi.productionCountry + "." + " Кузов " + audi.color + " Объем двигателя - " + audi.engineVolume);
         /**
          Human maksim = new Human();
          maksim.name = "Максим ";
